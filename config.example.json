@@ -1,7 +1,7 @@
 {
   "appEnv": "local",
   "sentryDns": "",
-  "cognitoClientId": "fucbp9ciogonnv8k4lu29a8bu",
+  "cognitoClientId": "5lf5htl7ruvu2jolpvr1hckg1h",
   "googleAnalyticsKey": "",
   "cognitoOAuthUrl": "https://dev.connect.reapit.cloud",
   "cognitoUserPoolId": "eu-west-2_hbt0B7yys",

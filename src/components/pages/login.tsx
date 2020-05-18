@@ -32,7 +32,7 @@ export const Login: React.FunctionComponent<LoginProps> = (props: LoginProps) =>
         <Level>
           <img src={connectImage} alt="Reapit Connect Graphic" />
         </Level>
-        <p className="pb-8">Welcome to gazeal</p>
+        <p className="pb-8">Welcome to gazeal-local</p>
         <Level>
           <Button type="button" onClick={loginHandler} loading={false} variant="primary" disabled={false} fullWidth>
             Login
