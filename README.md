@@ -1,6 +1,6 @@
-# gazeal-local
+# gazeal
 
-gazeal-local for Reapit PAAS platform. Initial scaffold from [React App Boilerplate](https://github.com/reapit/react-app)
+gazeal for Reapit PAAS platform. Initial scaffold from [React App Boilerplate](https://github.com/reapit/react-app)
 
 ## Read on:
 
